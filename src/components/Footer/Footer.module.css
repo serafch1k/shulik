@@ -1,0 +1,34 @@
+.footer {
+    background: #E0E0E0;
+    text-align: center;
+    color: #8C8C8C;
+    padding: 3vh 3vh;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.docs {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo img {
+    height: 20vh;
+}
+
+@media only screen and (min-width: 321px) {
+    .contacts img {
+        height: 50px;
+        weight: 50px
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .contacts img {
+        weight: 60px;
+        height: 60px;
+    }
+}
