@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shulik%20/static/css/main.508b4c39.css",
+    "main.js": "/shulik%20/static/js/main.9fed78f3.js",
+    "static/media/DSC01745 1.png": "/shulik%20/static/media/DSC01745 1.98794da00d2943493671.png",
+    "static/media/DSC02024 копия 1.png": "/shulik%20/static/media/DSC02024 копия 1.b20d248b82923a6cc890.png",
+    "static/media/DSC01995 копия.png": "/shulik%20/static/media/DSC01995 копия.7c1798244bd1f2ed5915.png",
+    "static/media/белые 20-24.png": "/shulik%20/static/media/белые 20-24.e98b901e13625cb8af47.png",
+    "static/media/DSC01938 копия.png": "/shulik%20/static/media/DSC01938 копия.70c9f76666e4016aa1cf.png",
+    "static/media/DSC01900 копия 1.png": "/shulik%20/static/media/DSC01900 копия 1.beb46a60b716c361502d.png",
+    "static/media/DSC01950 копия 1.png": "/shulik%20/static/media/DSC01950 копия 1.0b852eca63b393c0aca2.png",
+    "static/media/icon WA.svg": "/shulik%20/static/media/icon WA.fa0b0a2d832a2fe657f812bd8dd2bd86.svg",
+    "static/media/1 16.png": "/shulik%20/static/media/1 16.6cc16fa28407aa1d8d0e.png",
+    "static/media/icon VK.svg": "/shulik%20/static/media/icon VK.49950feda6861920309a4f1f2e4c6b41.svg",
+    "index.html": "/shulik%20/index.html",
+    "main.508b4c39.css.map": "/shulik%20/static/css/main.508b4c39.css.map",
+    "main.9fed78f3.js.map": "/shulik%20/static/js/main.9fed78f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508b4c39.css",
+    "static/js/main.9fed78f3.js"
+  ]
+}
